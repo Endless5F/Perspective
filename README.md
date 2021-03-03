@@ -1,0 +1,2 @@
+# PerspectiveEye
+自定义gradle查看，获取每个activity中intent的参数
